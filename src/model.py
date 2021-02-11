@@ -1,5 +1,5 @@
 import numpy as np
-import tensorflow as tf
+import tensorflow==1.4 as tf
 from tensorflow.contrib.training import HParams
 
 def default_hparams():
